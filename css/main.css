@@ -67,6 +67,7 @@ body {
 .sidebar__head {
     margin-bottom: 10px;
     font-weight: 500;
+    margin-top: 30px;
 }
 .sidebar__list {
     list-style-type: disc;
@@ -141,4 +142,7 @@ body {
 }
 .text__content {
     padding-inline: 20px;
+}
+.sidebar__search {
+    margin-bottom: 30px;
 }
